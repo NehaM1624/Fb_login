@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Fb_login</string>
+    <string name="username">Username/Phone no</string>
+    <string name="logo">Logo</string>
+    <string name="password">Password</string>
+    <string name="register">reg</string>
+    <string name="or">OR</string>
+    <string name="login">LOGIN</string>
+    <string name="account">Create a new facebook account</string>
+    <string name="name">What is your name</string>
+    <string name="email">What is your email</string>
+    <string name="pass">What is your Password</string>
+    <string name="birth">What is your Birth Date</string>
+    <string name="number">What is your Phone Number</string>
+    <string name="phn">Phone no</string>
+    <string name="first">First Name</string>
+    <string name="mail">Email Address</string>
+    <string name="last">Last Name</string>
+    <string name="signUp">Sign Up</string>
+    <string name="reg">reg</string>
+</resources>
